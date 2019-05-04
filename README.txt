@@ -1,7 +1,7 @@
 conda create --name robot python=3.6
 conda install -c conda-forge keras 
 conda install -c anaconda pandas 
-
+conda install -c anaconda numpy
 conda install -c anaconda scikit-learn 
 conda install -c conda-forge matplotlib
 conda install -c conda-forge/label/cf201901 matplotlib
